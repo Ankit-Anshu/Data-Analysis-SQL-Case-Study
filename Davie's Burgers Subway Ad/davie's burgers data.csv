@@ -1,0 +1,281 @@
+id,user_id,order_date,restaurant_id,item_name,special_instructions
+1,43,42865,6,Beef Enchilada,ketchup
+2,9,42916,3,Samosa,Null
+3,37,42901,1,Chicken Fajitas,Pickles on the side.
+4,31,42899,5,Picadillo,SRIRACHA SAUCE
+4,31,42899,5,Taquitos,Null
+5,22,42902,6,Beef Enchilada,no red onions.
+5,22,42902,6,Beef Enchilada,Null
+5,22,42902,6,Flautas,Null
+5,22,42902,6,Salsa,Null
+6,27,42895,13,Cannelloni,Null
+6,27,42895,13,Minestrone,Null
+6,27,42895,13,Vegetarian Lasagne,Null
+7,31,42861,14,Chicken Fajitas,ring doorbell
+7,31,42861,14,Sopa de albondiga,Null
+7,31,42861,14,Tamales,Null
+8,37,42883,1,Cheese pizza,Hey! You forgot my pickles last time. Pickles in a separate container please.
+8,37,42883,1,Margarita pizza,Null
+9,9,42907,13,Meat Lasagne,Null
+9,9,42907,13,Meat Lasagne,Null
+9,9,42907,13,Tiramisu,Null
+9,9,42907,13,Vegetarian Lasagne,Null
+10,9,42895,5,Beef Enchilada,asdf
+10,9,42895,5,Flautas,Null
+10,9,42895,5,Taquitos,Null
+11,25,42863,8,Extra cheese pizza,Walk to the garage and start singing the Lion King intro. I'll come out.
+11,25,42863,8,Hawaiian pizza,Null
+11,25,42863,8,Pepperoni pizza,Null
+11,25,42863,8,Pepperoni pizza,Null
+12,10,42871,15,Margarita pizza,*DIET* coke
+12,10,42871,15,Mushroom pizza,*DIET* coke
+13,38,42865,6,Vegetarian Fajitas,Null
+14,15,42866,3,Aloo Ghobi,"The gate is tricky, please don't break it."
+14,15,42866,3,Samosa,Null
+15,38,42902,9,Cheese pizza,Draw a dragon fighting flamingo on the pizza box.
+15,38,42902,9,Extra cheese pizza,Null
+15,38,42902,9,Mushroom pizza,Null
+15,38,42902,9,Pepperoni pizza,Null
+16,8,42869,12,Chicken Biryani,The spider on the front porch is Frank. Frank guards the tomatoes. Be nice to Frank.
+16,8,42869,12,Garlic Naan,Null
+16,8,42869,12,Goat Biryani,Null
+16,8,42869,12,Samosa,Null
+17,24,42891,12,Goat Biryani,Null
+18,12,42911,12,Chicken Biryani,Null
+18,12,42911,12,Chicken Korma,Null
+18,12,42911,12,Garlic Naan,Null
+18,12,42911,12,Naan,Null
+19,22,42863,5,Tacos al pastor,Null
+20,34,42909,1,Nachos,kids sleeping. please don't ring the doorbell thank u!
+21,22,42870,3,Aloo Ghobi,mayonnaise
+21,22,42870,3,Pakora,Null
+21,22,42870,3,Samosa,Null
+22,48,42903,10,Risotto,Yell Pizza three times so we know you are not NYPD.
+23,21,42871,1,Nachos,blank
+23,21,42871,1,Nachos,blank
+23,21,42871,1,Queso Fundido,Null
+24,6,42880,15,Cheese pizza,Cut the pizza into Pokeball.
+24,6,42880,15,Cheese pizza,Null
+24,6,42880,15,Extra cheese pizza,Null
+24,6,42880,15,Margarita pizza,Null
+25,27,42888,3,Paneer Makhani,I live in the Tiny House in the backyard - behind the Oak.
+25,27,42888,3,Vegetable Biryani,Null
+26,35,42913,14,Cheese Enchilada,sweet tea
+26,35,42913,14,Cheese Enchilada,Null
+26,35,42913,14,Chimichangas,Null
+26,35,42913,14,Chimichangas,Null
+27,49,42884,1,Chalupa,Cleanse yourself with the sage in the mailbox.
+27,49,42884,1,Chalupa,Null
+27,49,42884,1,Nachos,Null
+27,49,42884,1,Picadillo,Null
+28,43,42891,13,Cannelloni,Draw a narwhal on the delivery box.
+29,40,42892,7,Cheese pizza,write me a poem on the pizza box.
+29,40,42892,7,Hawaiian pizza,Null
+29,40,42892,7,Margarita pizza,Null
+30,25,42886,2,Aloo Ghobi,knock
+30,25,42886,2,Chicken Tikka Masala,Null
+30,25,42886,2,Peshwari Naan,Null
+30,25,42886,2,Peshwari Naan,Null
+31,24,42878,1,Beef Fajitas,Don't forget the drinks thanks!
+31,24,42878,1,Burrito,Null
+31,24,42878,1,Nachos,Null
+32,1,42911,14,Beef Fajitas,don't look me in the eye
+32,1,42911,14,Beef Fajitas,Null
+32,1,42911,14,Chicken Fajitas,Null
+32,1,42911,14,Chicken Fajitas,Null
+33,44,42880,12,Chicken Korma,Null
+33,44,42880,12,Garlic Naan,Null
+34,35,42860,7,Cheese pizza,Cut the pizza into pentagram \m/
+34,35,42860,7,Margarita pizza,Null
+34,35,42860,7,Sausage pizza,Null
+35,32,42859,5,Beef Enchilada,call and i will come out
+35,32,42859,5,Picadillo,Null
+35,32,42859,5,Taquitos,Null
+36,47,42859,13,Cannelloni,Null
+36,47,42859,13,Linguini with clam sauce,Null
+36,47,42859,13,Meat Lasagne,Null
+36,47,42859,13,Pasta Carbonara,Null
+37,2,42899,10,Bucatini all'Amatriciana,Please make one additional tiny version of my order for my hamster.
+37,2,42899,10,Risotto,dont judge me
+37,2,42899,10,Risotto,Null
+37,2,42899,10,Risotto,Null
+38,34,42882,5,Beef Enchilada,Door Code: Codecademy
+38,34,42882,5,Beef Enchilada,Null
+38,34,42882,5,Picadillo,Null
+39,2,42891,2,Channa Masala,"Soda shaken, not stirred."
+39,2,42891,2,Naan,Null
+39,2,42891,2,Peshwari Naan,Null
+40,2,42904,7,Cheese pizza,Draw Yoda on pizza box.
+40,2,42904,7,Hawaiian pizza,Null
+40,2,42904,7,Hawaiian pizza,Null
+41,50,42866,9,Cheese pizza,asdfjkl;
+41,50,42866,9,Cheese pizza,Null
+41,50,42866,9,Hawaiian pizza,Please please please please please do not give me ANY plasticware #motherearth
+41,50,42866,9,Mushroom pizza,Null
+42,17,42885,12,Garlic Naan,Null
+42,17,42885,12,Goat Biryani,no onions please
+42,17,42885,12,Goat Biryani,Null
+43,36,42858,11,Extra cheese pizza,Cut Pizza into concentric circles.
+43,36,42858,11,Extra cheese pizza,Null
+43,36,42858,11,Extra cheese pizza,Null
+43,36,42858,11,Sausage pizza,Null
+44,36,42873,1,Chalupa,diet coke
+44,36,42873,1,Queso Fundido,Null
+45,41,42894,10,Meat Lasagne,Null
+45,41,42894,10,Minestrone,Null
+45,41,42894,10,Penne all'arrabbiata,super hungover. let yourself in pass the fridge turn left and double doors my bedroom. im in my pajamas watching james bond 1love
+45,41,42894,10,Penne all'arrabbiata,Null
+46,33,42890,10,Cheese Ravioli,Null
+46,33,42890,10,Risotto,Null
+47,28,42858,15,Extra cheese pizza,#hangry
+47,28,42858,15,Hawaiian pizza,#hangry
+47,28,42858,15,Mushroom pizza,#hangry
+48,28,42886,12,Goat Biryani,Null
+48,28,42886,12,Naan,Null
+48,28,42886,12,Vegetable Biryani,Null
+48,28,42886,12,Vegetable Biryani,Null
+49,16,42889,9,Extra cheese pizza,asdf
+49,16,42889,9,Hawaiian pizza,Null
+49,16,42889,9,Mushroom pizza,Null
+49,16,42889,9,Sausage pizza,Null
+50,29,42879,10,Cheese Ravioli,allergic to peanuts
+50,29,42879,10,Panna cotta,Null
+50,29,42879,10,Risotto,Null
+50,29,42879,10,Risotto,Null
+51,6,42865,2,Naan,Null
+52,50,42890,3,Aloo Ghobi,Null
+52,50,42890,3,Paneer Makhani,Null
+53,3,42864,15,Cheese pizza,Null
+54,50,42882,9,Extra cheese pizza,BBQ sauce
+54,50,42882,9,Mushroom pizza,Null
+55,25,42878,15,Hawaiian pizza,smile!
+55,25,42878,15,Mushroom pizza,Null
+55,25,42878,15,Pepperoni pizza,Null
+56,47,42888,8,Cheese pizza,Null
+56,47,42888,8,Hawaiian pizza,Null
+56,47,42888,8,Margarita pizza,Null
+56,47,42888,8,Sausage pizza,Null
+57,3,42903,9,Extra cheese pizza,Null
+57,3,42903,9,Pepperoni pizza,Null
+58,36,42914,7,Cheese pizza,Null
+59,21,42910,3,Aloo Ghobi,Null
+59,21,42910,3,Pakora,Null
+60,14,42904,3,Naan,creepily wink
+60,14,42904,3,Naan,Null
+61,45,42886,12,Garlic Naan,.
+61,45,42886,12,Garlic Naan,Null
+61,45,42886,12,Goat Biryani,Null
+61,45,42886,12,Goat Biryani,Null
+62,2,42879,11,Cheese pizza,beat me tic-tac-toe on the pizza box for $5 tip
+62,2,42879,11,Margarita pizza,Null
+62,2,42879,11,Mushroom pizza,Null
+63,40,42878,5,Tacos al pastor,Null
+63,40,42878,5,Taquitos,Null
+63,40,42878,5,Taquitos,Null
+64,27,42866,14,Beef Fajitas,KNOCK LOUD LIKE THE COPS FOR $20 TIP
+64,27,42866,14,Chimichangas,Null
+64,27,42866,14,Sopa de albondiga,Null
+64,27,42866,14,Sopa de albondiga,Null
+65,29,42874,9,Extra cheese pizza,extra napkins
+65,29,42874,9,Margarita pizza,Null
+65,29,42874,9,Mushroom pizza,Null
+65,29,42874,9,Mushroom pizza,Null
+66,34,42866,2,Aloo Ghobi,dr pepper thx
+66,34,42866,2,Samosa,Null
+66,34,42866,2,Samosa,Null
+67,3,42881,10,Panna cotta,Thank you~
+67,3,42881,10,Panna cotta,Null
+67,3,42881,10,Risotto,Null
+68,48,42896,2,Chicken Tikka Masala,Null
+68,48,42896,2,Lamb Biryani,Null
+68,48,42896,2,Naan,Null
+69,29,42916,6,Quesadillas,Null
+69,29,42916,6,Quesadillas,Null
+69,29,42916,6,Salsa,Null
+70,12,42875,7,Hawaiian pizza,Arrange the meat on the pizza so that it spells out the name of each meat.
+71,21,42897,2,Aloo Ghobi,Null
+71,21,42897,2,Chicken Tikka Masala,Null
+71,21,42897,2,Lamb Biryani,Null
+71,21,42897,2,Samosa,Null
+72,9,42907,10,Minestrone,Null
+73,2,42877,6,Beef Enchilada,Send your cutest delivery boy <3
+73,2,42877,6,Quesadillas,Null
+73,2,42877,6,Quesadillas,Null
+73,2,42877,6,Salsa,Null
+74,11,42881,14,Chicken Fajitas,Null
+74,11,42881,14,Tamales,Null
+75,4,42888,6,Quesadillas,Null
+75,4,42888,6,Salsa,Null
+75,4,42888,6,Vegetarian Fajitas,Null
+76,25,42869,8,Extra cheese pizza,crust not too crusty
+76,25,42869,8,Hawaiian pizza,Null
+76,25,42869,8,Mushroom pizza,Null
+77,22,42894,4,Bucatini all'Amatriciana,Null
+77,22,42894,4,Meat Lasagne,Null
+78,39,42878,5,Flautas,Null
+78,39,42878,5,Picadillo,Null
+78,39,42878,5,Tacos al pastor,Null
+78,39,42878,5,Tostadas,What's the most ketchup you're willing to give me?
+79,36,42887,1,Chalupa,mild sauce
+79,36,42887,1,Nachos,Null
+79,36,42887,1,Picadillo,Null
+79,36,42887,1,Picadillo,Null
+80,7,42881,7,Hawaiian pizza,Will you go to the prom with me?
+80,7,42881,7,Margarita pizza,Null
+80,7,42881,7,Pepperoni pizza,Null
+80,7,42881,7,Sausage pizza,Null
+81,36,42867,3,Aloo Ghobi,Null
+81,36,42867,3,Naan,Null
+81,36,42867,3,Naan,Null
+81,36,42867,3,Pakora,Beef milk please
+82,8,42913,3,Aloo Ghobi,Null
+82,8,42913,3,Naan,Null
+82,8,42913,3,Samosa,Null
+82,8,42913,3,Samosa,Null
+83,11,42911,11,Sausage pizza,Null
+84,22,42908,9,Extra cheese pizza,Null
+84,22,42908,9,Extra cheese pizza,Null
+84,22,42908,9,Hawaiian pizza,Null
+84,22,42908,9,Mushroom pizza,Null
+85,22,42869,13,Minestrone,Null
+86,6,42882,11,Cheese pizza,please be here before 11:30pm thanks
+86,6,42882,11,Margarita pizza,Null
+86,6,42882,11,Mushroom pizza,Null
+87,37,42870,9,Hawaiian pizza,Null
+88,50,42896,5,Taquitos,Null
+89,19,42874,10,Cheese Ravioli,Null
+89,19,42874,10,Minestrone,Null
+89,19,42874,10,Panna cotta,Null
+89,19,42874,10,Penne all'arrabbiata,Null
+90,5,42883,12,Chicken Korma,Null
+90,5,42883,12,Garlic Naan,Null
+91,49,42884,5,Tacos al pastor,Null
+92,13,42912,1,Beef Fajitas,knock
+92,13,42912,1,Chalupa,Null
+92,13,42912,1,Nachos,Null
+92,13,42912,1,Queso Fundido,Null
+93,15,42862,9,Cheese pizza,Null
+93,15,42862,9,Pepperoni pizza,Null
+94,2,42913,6,Beef Enchilada,Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+94,2,42913,6,Chicken Enchilada,Null
+94,2,42913,6,Chilaquiles,Null
+94,2,42913,6,Flautas,Null
+95,37,42879,7,Cheese pizza,beat me tic-tac-toe on the pizza box for $5 tip
+95,37,42879,7,Margarita pizza,Null
+95,37,42879,7,Pepperoni pizza,Null
+95,37,42879,7,Sausage pizza,Null
+96,50,42911,13,Pasta Carbonara,Null
+96,50,42911,13,Vegetarian Lasagne,Null
+97,45,42912,6,Chicken Enchilada,my coworker and i are working overtime. can u write some inspiration/motivations on the box. u rock!
+97,45,42912,6,Chilaquiles,Null
+97,45,42912,6,Flautas,Null
+97,45,42912,6,Vegetarian Fajitas,Null
+98,42,42862,3,Naan,Null
+99,41,42916,9,Hawaiian pizza,extra pepperoni
+99,41,42916,9,Margarita pizza,Null
+99,41,42916,9,Mushroom pizza,Null
+99,41,42916,9,Sausage pizza,Null
+100,30,42861,1,Beef Fajitas,Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+100,30,42861,1,Beef Fajitas,Null
+100,30,42861,1,Beef Fajitas,Null
+100,30,42861,1,Nachos,call!
